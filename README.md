@@ -1,4 +1,5 @@
-# sample-caht
+# Firebaseでのリアルタイムチャット作成サンプル
+
 
 ## Project setup
 ```
