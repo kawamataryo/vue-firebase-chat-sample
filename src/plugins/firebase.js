@@ -7,7 +7,7 @@ Vue.use(VueFire)
 
 const firebaseApp = firebase.initializeApp({
   // Populate your firebase configuration data here.
-    apiKey: "AIzaSyDgWJB6PbrX3vrKCcXQ0OLOHEyusS_IdnU",
+    apiKey: process.env.FIREBASE_API_KEY,
     authDomain: "vue-chat-sample.firebaseapp.com",
     databaseURL: "https://vue-chat-sample.firebaseio.com",
     projectId: "vue-chat-sample",
