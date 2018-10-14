@@ -1,6 +1,6 @@
 # Firebaseでのリアルタイムチャット作成サンプル
 
-Qiitaにチュートリアル掲載中
+Qiitaにチュートリアル掲載中  
 https://qiita.com/ryo2132/items/2881d8223eb2ad3050a1
 
 ## Project setup
